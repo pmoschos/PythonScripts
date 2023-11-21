@@ -52,4 +52,12 @@ This guide outlines best practices for naming conventions in Python, aimed at en
 - **Descriptive**: Choose names that clearly describe the variable's or function's purpose.
 - **Avoid Conflicts**: Avoid names that are already in use by Python's built-in functions or libraries.
 
-By adhering to these conventions, your code will be more readable, maintainable, and less prone to errors. 
+By adhering to these conventions, your code will be more readable, maintainable, and less prone to errors.
+
+---
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
+<p align="center">
+  Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
+</p>
