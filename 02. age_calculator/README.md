@@ -25,3 +25,11 @@ This Python script is designed to calculate a person's exact age in years, month
 ---
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
+
+---
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
+<p align="center">
+  Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
+</p>
