@@ -22,8 +22,6 @@ This Python script is designed to calculate a person's exact age in years, month
 - Students learning Python can use this script to understand basic concepts like date manipulation, input validation, and conditional logic.
 - Anyone interested in a quick and easy way to calculate age accurately.
 
----
-
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
 ---
