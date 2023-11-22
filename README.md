@@ -54,3 +54,8 @@ Panagiotis Moschos - pan.moschos86@gmail.com
 GitHub Link: https://github.com/pmoschos
 
 ---
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
+<p align="center">
+  Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
+</p>
