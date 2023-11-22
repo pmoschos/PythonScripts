@@ -51,7 +51,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
-GitHub Link: https://github.com/pmoschos
 
 ---
 <h1 align=center>Happy Coding 👨‍💻 </h1>
