@@ -27,6 +27,9 @@
 ## 👥 Contribution Guidelines
 🤝 Contributions are welcome! Please read our contribution guidelines to get started.
 
+## 📷 Calculator Screenshot 
+![image](https://github.com/pmoschos/PythonScripts/assets/133533759/711f6b8a-43fb-4e41-ae09-f66b8929def2)
+
 ## 📜 License Information
 🔐 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
