@@ -34,7 +34,7 @@ PythonScripts is more than just a collection of scripts. It's a toolkit for solv
 
 ## Getting Started 🚀
 To get started with PythonScripts:
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone https://github.com/pmoschos/PythonScripts`
 2. Navigate to the desired script
 3. Read the accompanying documentation for usage instructions
 
