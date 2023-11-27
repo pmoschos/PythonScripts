@@ -23,10 +23,19 @@ This game is suitable for Python beginners and enthusiasts looking to explore ba
 No installation is required. Just clone the repository and run the script:
 
 ```bash
-git clone [Your-Repo-URL]
-cd [Your-Repo-Directory]
+git clone https://github.com/pmoschos/PythonScripts/tree/main/05.tic_tac_toe
+```
+
+```bash
+cd PythonScripts
+```
+
+```bash
 python tic_tac_toe.py
 ```
+
+## 📷 Tic Tac Toe Screenshot
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/0e9031ef-b407-4c37-a9e9-806cff52dbc9)
 
 ## Usage 🕹️
 
