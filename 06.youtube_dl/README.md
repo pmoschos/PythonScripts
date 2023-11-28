@@ -32,7 +32,7 @@ pip install pytube
 ### 🚀 Start the Application:
 Run the application using Python:
 ```bash
-python youtube_dl.py.py
+python youtube_dl.py
 ```
 
 ## 📷 YouTube Downloader Screenshot
