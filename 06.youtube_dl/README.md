@@ -19,23 +19,35 @@ This application is designed for users who need a straightforward, no-frills met
 ## ⬇️ Installation and Setup
 1. **🔗 Clone the Repository:**
 ```bash
-   git clone [repository URL]
+   git clone https://github.com/pmoschos/PythonScripts/tree/main/06.youtube_dl
  ```
 
  ## 📚 Install Dependencies
 Ensure Python 3.x is installed on your system. Then, install the required libraries using pip:
 ```bash
-pip install pytube tkinter
+pip install pytube
 ```
 
 ## 🖱️ Usage
 ### 🚀 Start the Application:
 Run the application using Python:
 ```bash
-python easy_youtube_downloader.py
+python youtube_dl.py.py
 ```
+
+## 📷 YouTube Downloader Screenshot
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/0e9031ef-b407-4c37-a9e9-806cff52dbc9)
 
 ### 📹 Download Video:
 1. Enter the YouTube video URL in the provided text field.
 2. Click 'Start Download' and choose the destination folder.
 
+🔗 *Note: This is a Python script and requires a Python interpreter to run.*
+
+---
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
+<p align="center">
+  Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
+</p>
