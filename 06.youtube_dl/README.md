@@ -17,7 +17,7 @@ Easy YouTube Downloader is a simple and user-friendly application built with Pyt
 This application is designed for users who need a straightforward, no-frills method to download YouTube videos. It's suitable for all skill levels, from beginners to advanced users.
 
 ## ⬇️ Installation and Setup
-1. **🔗 Clone the Repository:**
+**🔗 Clone the Repository:**
 ```bash
    git clone https://github.com/pmoschos/PythonScripts/tree/main/06.youtube_dl
  ```
