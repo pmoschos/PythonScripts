@@ -36,7 +36,7 @@ python youtube_dl.py.py
 ```
 
 ## 📷 YouTube Downloader Screenshot
-![image](https://github.com/pmoschos/pmoschos/assets/133533759/0e9031ef-b407-4c37-a9e9-806cff52dbc9)
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/1e172121-d805-4f32-9dd4-3ecc2aef1c0d)
 
 ### 📹 Download Video:
 1. Enter the YouTube video URL in the provided text field.
