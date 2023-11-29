@@ -46,10 +46,10 @@ python calendar_gen.py
 ---
 
 ## 📷 Screenshots
-## :computer: Application
+## 1. Application :computer:
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/8dfa771b-d773-4691-98d6-12d8fef5bbb6)
 
-## 🗓️ Generated Calendar
+## 2. Generated Calendar 🗓️
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/57ffedca-c365-486e-b994-035940fd8cbc)
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
