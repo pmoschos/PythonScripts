@@ -25,6 +25,7 @@ Ensure Python 3.x is installed on your system. Then, install the required librar
 pip install pillow
 ```
 
+## 🖱️ Usage
 ```bash
 git clone https://github.com/pmoschos/PythonScripts
 ```
@@ -38,11 +39,13 @@ cd 07.calendar_gen
 python calendar_gen.py
 ```
 
-## 📷 Screenshot
-### :computer: Application
+---
+
+## 📷 Screenshots
+## :computer: Application
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/8dfa771b-d773-4691-98d6-12d8fef5bbb6)
 
-### 🗓️ Generated Calendar
+## 🗓️ Generated Calendar
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/57ffedca-c365-486e-b994-035940fd8cbc)
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
