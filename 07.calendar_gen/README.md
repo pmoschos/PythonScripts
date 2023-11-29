@@ -26,19 +26,19 @@ pip install pillow
 ```
 
 ## 🖱️ Usage
-1. Clone the repo
+**1. Clone the repo**
 ```bash
 git clone https://github.com/pmoschos/PythonScripts
 ```
-2. Enter in main repo folder
+**2. Enter in main repo folder**
 ```bash
 cd PythonScripts
 ```
-3. Enter in specific folder
+**3. Enter in specific folder**
 ```bash
 cd 07.calendar_gen
 ```
-4. Run the App
+**4. Run the App**
 ```bash
 python calendar_gen.py
 ```
