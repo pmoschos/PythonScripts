@@ -22,7 +22,7 @@ Ensure you have Python and PIL installed. Clone the repository and run the scrip
  ## 📚 Install Dependencies
 Ensure Python 3.x is installed on your system. Then, install the required libraries using pip:
 ```bash
-pip install pytube
+pip install pillow
 ```
 
 ```bash
@@ -39,7 +39,11 @@ python calendar_gen.py
 ```
 
 ## 📷 Screenshot
+### :computer: Application
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/8dfa771b-d773-4691-98d6-12d8fef5bbb6)
 
+### 🗓️ Generated Calendar
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/57ffedca-c365-486e-b994-035940fd8cbc)
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
