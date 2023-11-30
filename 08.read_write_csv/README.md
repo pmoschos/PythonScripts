@@ -1,0 +1,57 @@
+# 📝 CSV Contact Manager
+
+This Python application provides an easy and efficient way to manage contacts stored in a CSV file. It allows reading, adding, and writing contact information.
+
+## 🌟 Features
+
+- **Read Contacts**: Import contacts from a CSV file.
+- **Add New Contacts**: Easily add new contact details.
+- **Save Updates**: Write updated contact information back to the CSV file.
+
+## 🛠️ Technical Requirements
+
+- **Python**: Version 3.6 or later.
+- **Libraries**: No external libraries required.
+
+## 🎯 Target Audience
+
+- Suitable for individuals with a basic understanding of Python and file handling.
+- Ideal for those looking to manage simple data structures in CSV format.
+
+## 🚀 Installation and Setup
+
+1. **Clone the Repository**:
+```bash
+git clone https://github.com/your-username/csv-contact-manager.git
+```
+```bash
+cd csv-contact-manager
+```
+
+2. **Running the Application**:
+Simply execute the Python script:
+
+## 📋 Usage Examples
+- Reading Contacts:
+```bash
+contacts = read_csv('contacts.csv')
+```
+- Adding a Contact:
+```bash
+contacts = add_contact(contacts, 'Firstname Lastname', 'email@example.com', '123-456-7890')
+```
+
+- Saving Contacts:
+```bash
+write_csv('contacts.csv', contacts)
+```
+
+🔗 *Note: This is a Python script and requires a Python interpreter to run.*
+
+---
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
+<p align="center">
+  Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
+</p>
