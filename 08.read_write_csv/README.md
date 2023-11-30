@@ -33,24 +33,23 @@ cd PythonScripts
 cd 08.read_write_csv
 ```
 
-
 2. **Running the Application**:
 Simply execute the Python script:
 ```bash
-python read_write_csv
+python read_write_csv.py
 ```
 
 ## 📋 Usage Examples
-- Reading Contacts:
+- **Reading Contacts**:
 ```bash
 contacts = read_csv('contacts.csv')
 ```
-- Adding a Contact:
+- **Adding a Contact**:
 ```bash
 contacts = add_contact(contacts, 'Firstname Lastname', 'email@example.com', '123-456-7890')
 ```
 
-- Saving Contacts:
+- **Saving Contacts**:
 ```bash
 write_csv('contacts.csv', contacts)
 ```
