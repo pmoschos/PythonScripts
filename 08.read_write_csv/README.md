@@ -22,14 +22,23 @@ This Python application provides an easy and efficient way to manage contacts st
 
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/your-username/csv-contact-manager.git
+git clone https://github.com/pmoschos/PythonScripts
 ```
+2. **Navigate to Folder**:
 ```bash
-cd csv-contact-manager
+cd PythonScripts
 ```
+
+```bash
+cd 08.read_write_csv
+```
+
 
 2. **Running the Application**:
 Simply execute the Python script:
+```bash
+python read_write_csv
+```
 
 ## 📋 Usage Examples
 - Reading Contacts:
