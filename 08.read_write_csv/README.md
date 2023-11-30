@@ -33,7 +33,7 @@ cd PythonScripts
 cd 08.read_write_csv
 ```
 
-2. **Running the Application**:
+3. **Running the Application**:
 Simply execute the Python script:
 ```bash
 python read_write_csv.py
