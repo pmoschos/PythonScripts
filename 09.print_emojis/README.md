@@ -1,4 +1,4 @@
-## Emoji List :sparkles:
+## :sparkles: Emoji List
 
 This section showcases a selection of emojis available in the [emoji](https://pypi.org/project/emoji/) module. For a fun and interactive way to explore and use emojis in your Python projects, refer to the script below.
 
@@ -32,7 +32,7 @@ Simply execute the Python script:
 python print_emojis.py
 ```
 
-### How to Generate the Emoji List
+### :trophy: How to Generate the Emoji List
 To retrieve and display the emojis, use the following Python script:
 
 ```python
@@ -46,7 +46,7 @@ for emoji_name, emoji_details in all_emojis.items():
     print(f"{emoji_name}: {emoji_details['en']}")
 ```
 
-## Sample Emojis :heart_eyes:
+## :heart_eyes: Sample Emojis 
 Here's a sneak peek into the emojis you can find:
 
 - 😃: Smiley - Express happiness and positivity.
@@ -54,3 +54,13 @@ Here's a sneak peek into the emojis you can find:
 - 🌍: Earth Africa - Ideal for global projects or localization features.
 - 📚: Books - Great for educational or documentation related topics.
 - 🐍: Snake - A nod to Python, our favorite programming language!
+
+🔗 *Note: This is a Python script and requires a Python interpreter to run.*
+
+---
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
+<p align="center">
+  Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
+</p>
