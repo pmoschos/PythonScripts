@@ -55,6 +55,7 @@ Here's a sneak peek into the emojis you can find:
 - 📚: Books - Great for educational or documentation related topics.
 - 🐍: Snake - A nod to Python, our favorite programming language!
 
+
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
 ---
