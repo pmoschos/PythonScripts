@@ -21,7 +21,7 @@ This tool is intended for users who need to generate QR codes for websites or ap
 ## :computer: Installation and Setup ![Installation](https://img.shields.io/badge/Installation-Setup-9cf)
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/pmoschos/PythonScripts/tree/main/10.generate_qrcode
 ```
 
 2. Install required packages:
