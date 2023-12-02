@@ -35,9 +35,7 @@ python generate_qrcode.py
 ```
 
 ## :camera: Screenshots
-Include screenshots of your application here. This could be the GUI window, the generated QR code, or any other relevant images. For example:
-
-![QR Code GUI Window](path/to/your/screenshot.png)
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/4c096dd3-fe4d-4466-97e3-c11476e49498)
 
 ## :bulb: Usage Example
 After running the script, enter the URL for which you want to generate the QR code. The QR code will be saved as a PNG file and displayed in a Tkinter window.
@@ -53,10 +51,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## :information_source: Additional Information
 For more information or to report bugs, please open an issue in this repository.
-
-## :camera: Screenshots
-![image](https://github.com/pmoschos/pmoschos/assets/133533759/4c096dd3-fe4d-4466-97e3-c11476e49498)
-
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
