@@ -10,8 +10,7 @@ A simple, user-friendly GUI application to resize images efficiently. Built usin
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Screenshots](#screenshots)
 
 ## Overview :mag:
 The Image Resizer Tool allows users to easily resize images to their desired dimensions. The application features a straightforward GUI for selecting images and inputting size parameters, ensuring a smooth user experience for both technical and non-technical users.
@@ -22,27 +21,30 @@ The Image Resizer Tool allows users to easily resize images to their desired dim
 git clone https://github.com/pmoschos/PythonScripts
 ```
 
-2. Navigate to the Directory
+2. **Navigate to the Directory**
 ```bash
 cd 11.image_resize
 ```
 
-3. Install Dependencies
+3. **Install Dependencies**
 ```bash
 pip install Pillow
 ```
 
 ## Usage :computer:
 1. **Start the Application**
+
 Run the script:
 ```bash
 python image_resize.py
 ```
 
 2. **Select an Image**
+
 Click 'Select Image' and choose your image file.
 
 3. **Resize the Image**
+
 Enter the desired width and height.
 Click 'Resize Image' to process and save the resized image.
 
