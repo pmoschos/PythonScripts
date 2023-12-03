@@ -49,8 +49,6 @@ Contributions to this project are welcome! Please adhere to the following guidel
 ## :page_facing_up: License ![License](https://img.shields.io/badge/license-MIT-green)
 This project is licensed under the [MIT License](LICENSE).
 
-## :information_source: Additional Information
-For more information or to report bugs, please open an issue in this repository.
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
