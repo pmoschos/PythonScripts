@@ -32,19 +32,16 @@ pip install Pillow
 ```
 
 ## Usage :computer:
-1. **Start the Application**
-
-Run the script:
+1. **Start the Application**:
+Run the script.
 ```bash
 python image_resize.py
 ```
 
-2. **Select an Image**
-
+2. **Select an Image**:
 Click 'Select Image' and choose your image file.
 
-3. **Resize the Image**
-
+3. **Resize the Image**:
 Enter the desired width and height.
 Click 'Resize Image' to process and save the resized image.
 
