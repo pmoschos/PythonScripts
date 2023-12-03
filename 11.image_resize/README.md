@@ -1,4 +1,4 @@
-# Image Resizer Tool :framed_picture:
+# :framed_picture: Image Resizer Tool 
 
 [![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)](https://docs.python.org/3/library/tk.html)
@@ -6,16 +6,16 @@
 
 A simple, user-friendly GUI application to resize images efficiently. Built using Python and Tkinter, and powered by the Pillow library for image processing.
 
-## Table of Contents :bookmark_tabs:
+## :bookmark_tabs: Table of Contents 
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 
-## Overview :mag:
+## :mag: Overview 
 The Image Resizer Tool allows users to easily resize images to their desired dimensions. The application features a straightforward GUI for selecting images and inputting size parameters, ensuring a smooth user experience for both technical and non-technical users.
 
-## Installation :wrench:
+## :wrench: Installation 
 1. **Clone the Repository**
 ```bash
 git clone https://github.com/pmoschos/PythonScripts
@@ -31,7 +31,7 @@ cd 11.image_resize
 pip install Pillow
 ```
 
-## Usage :computer:
+## :computer: Usage 
 1. **Start the Application**:
 Run the script.
 ```bash
