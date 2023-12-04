@@ -1,6 +1,6 @@
 # Site Connectivity Checker 🌍
 
-![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://github.com/pmoschos/PythonScripts/tree/main) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/PythonScripts) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Overview 📖
 The Site Connectivity Checker is a Python-based tool designed to verify the accessibility of websites. It efficiently checks if a URL is accessible and provides the status of the connection attempt.
