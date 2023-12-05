@@ -52,7 +52,7 @@ python gif_generator.py
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/5492670f-5489-4a8e-98a7-2be7b5813d07)
 
 ### After
-![output](https://github.com/pmoschos/pmoschos/assets/133533759/ca0b392d-0813-42cc-941b-8884edd17f57)
+![output](https://github.com/pmoschos/pmoschos/assets/133533759/d8ca9b0b-b64b-47ae-a2aa-3ad5cc09c659)
 
 ## License 📜
 Distributed under the MIT License. See `LICENSE` for more information.
