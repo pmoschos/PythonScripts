@@ -60,6 +60,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 
+🔗 *Note: This is a Python script and requires a Python interpreter to run.*
+
 ---
 <h1 align=center>Happy Coding 👨‍💻 </h1>
 
