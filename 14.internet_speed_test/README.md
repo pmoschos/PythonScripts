@@ -35,7 +35,7 @@ git clone https://github.com/pmoschos/PythonScripts
 cd 14.internet_speed_test
 ```
 
-## Install Dependencies
+## 📦 Install Dependencies
 
 Make sure you have Python installed. Then, install the Speedtest module using pip:
 
@@ -58,7 +58,7 @@ python internet_speed_test.py
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/db35b2dc-6ff8-4ded-96c8-1c1e4b8dea77)
 
 ## 📜 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
