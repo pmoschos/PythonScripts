@@ -3,7 +3,7 @@
 ## 📖 Overview
 Weather App is a Python-based desktop application that provides real-time weather information. Utilizing the OpenWeatherMap API, it allows users to search for current weather conditions in cities worldwide. The application is built with `tkinter` and `ttkbootstrap` for a user-friendly graphical interface.
 
-![Weather App Interface](![image](https://github.com/pmoschos/pmoschos/assets/133533759/8cace95c-16b2-492f-a6a5-cdd4567bf845))
+![Weather App Interface]![image](https://github.com/pmoschos/pmoschos/assets/133533759/8cace95c-16b2-492f-a6a5-cdd4567bf845)
 
 ## ⚙️ Key Features
 - **City-based Weather Search**: Users can search for weather information by entering a city name. ![Search Icon](URL_TO_SEARCH_ICON)
