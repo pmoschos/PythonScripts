@@ -50,18 +50,22 @@ python weather_api.py
 ```
 
 ## 📸 Screenshots
-### Before
-![image](https://github.com/pmoschos/pmoschos/assets/133533759/be6d2014-07f8-44fc-8ff7-37176d96ab4e)
+### Application started
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/3b753405-adcf-45bc-80f8-089404236cb1)
 
-### After
-![image](https://github.com/pmoschos/pmoschos/assets/133533759/db35b2dc-6ff8-4ded-96c8-1c1e4b8dea77)
+### Application runned
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/8cace95c-16b2-492f-a6a5-cdd4567bf845)
 
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ℹ️ Additional Information
 - 🔑 **API Key**: Replace the `API_KEY` in the `configs.py` file with your own API key from [OpenWeatherMap](https://openweathermap.org/). 
-- 🌤️ **Weather Icons**: Weather icons are provided by OpenWeatherMap. Example: ![Weather Icon](https://openweathermap.org/img/wn/10d@2x.png).
+- 🌤️ **Weather Icons**: Weather icons are provided by OpenWeatherMap. Example:
+<p align="center">
+  <img src="https://openweathermap.org/img/wn/10d@2x.png" alt="Weather Icon">
+</p>
+
 - 🎨 **Customization**: The interface can be customized using different themes available in `ttkbootstrap`.
 
 ## Contact 📧
