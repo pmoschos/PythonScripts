@@ -29,7 +29,7 @@ git clone https://github.com/pmoschos/PythonScripts
 
 - 📁 **Navigate to the project directory**:
 ```bash
-cd 15.dice_roller
+cd 16.dice_roller
 ```
 
 ## 📌 Usage
