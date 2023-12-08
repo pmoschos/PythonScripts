@@ -49,12 +49,12 @@ Here's a look at the Dice Roller App in action:
 ### App Interface
 Main Interface of the Dice Roller App
 
-![image](https://github.com/pmoschos/pmoschos/assets/133533759/1c2c8cde-d2f0-4a66-8f25-211d5722721c)
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/24383e83-3876-42f9-acd0-f7e1f2d42ef7)
 
 ### Rolling Dice
 Simulating a Dice Roll
 
-![image](https://github.com/pmoschos/pmoschos/assets/133533759/55152468-184d-4788-8d5e-0744416968b1)
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/a832edfe-7c36-43dc-aef0-d5285d39adf7)
 
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
