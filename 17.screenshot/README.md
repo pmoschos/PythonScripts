@@ -30,7 +30,7 @@ git clone https://github.com/pmoschos/PythonScripts
 
 - 📁 **Navigate to the project directory**:
 ```bash
-cd 17.screnshot
+cd 17.screenshot
 ```
 
 ## 📌 Usage
@@ -38,7 +38,7 @@ cd 17.screnshot
 To start the application, run the following command in your terminal:
 
 ```bash
-python screnshot.py
+python screenshot.py
 ```
 
 ## 📜 License
