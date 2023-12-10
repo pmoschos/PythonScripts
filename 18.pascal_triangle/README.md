@@ -16,7 +16,8 @@ This Python application generates Pascal's Triangle up to a specified number of 
 This project is ideal for students and educators in mathematics or computer science, as well as anyone interested in number theory or Python programming.
 
 ## Skill Level 👩‍💻👨‍💻
-- **User Level:** Beginner-friendly, no prior knowledge of Pascal's Triangle is required. ![Beginner Friendly](https://img.shields.io/badge/user-beginner-friendly-green)
+- **User Level:** Beginner-friendly, no prior knowledge of Pascal's Triangle is required. <img src="https://img.shields.io/badge/user-beginner-friendly-green" alt="Beginner Friendly">
+
 
 - **Developer Level:** Intermediate, basic understanding of Python and mathematical concepts is beneficial. ![Intermediate](https://img.shields.io/badge/developer-intermediate-yellow)
 
