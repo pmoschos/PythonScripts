@@ -17,6 +17,7 @@ This project is ideal for students and educators in mathematics or computer scie
 
 ## Skill Level 👩‍💻👨‍💻
 - **User Level:** Beginner-friendly, no prior knowledge of Pascal's Triangle is required. ![Beginner Friendly](https://img.shields.io/badge/user-beginner-friendly-green)
+
 - **Developer Level:** Intermediate, basic understanding of Python and mathematical concepts is beneficial. ![Intermediate](https://img.shields.io/badge/developer-intermediate-yellow)
 
 ## Installation and Setup 🚀
