@@ -15,8 +15,6 @@ This Python application generates Pascal's Triangle up to a specified number of 
 ## Target Audience 🎯
 This project is ideal for students and educators in mathematics or computer science, as well as anyone interested in number theory or Python programming.
 
-- **Developer Level:** Intermediate, basic understanding of Python and mathematical concepts is beneficial. ![Intermediate](https://img.shields.io/badge/developer-intermediate-yellow)
-
 ## Installation and Setup 🚀
 No installation is required. To run the program, follow these steps:
 1. Ensure Python 3.x is installed on your system.
