@@ -50,6 +50,7 @@ Main Interface of the Color Game:
 
 ### During the game
 Simulating a game
+- Type the color of the word displayed, not the word text itself!
 
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/70cf56be-0dad-462c-bb13-0dd0422ea798)
 
