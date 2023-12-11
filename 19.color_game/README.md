@@ -43,7 +43,8 @@ python color_game.py
 ## 📸 Screenshots
 
 ### App Interface
-Main Interface of the Color Game: Press **Enter** to start the game.
+Main Interface of the Color Game: 
+- Press **Enter** to start the game.
 
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/60d6535a-c150-4386-9886-468d42859642)
 
