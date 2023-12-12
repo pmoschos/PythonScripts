@@ -10,7 +10,7 @@
 
 ## 📚 Technical Requirements
 - **🐍 Python**: Version 3.x required.
-- **📚 Libraries**: Tkinter, `zipfile`, `rarfile`.
+- **📚 Libraries**: `Tkinter`, `zipfile`, `rarfile`.
 
 ## 🎯 Target Audience
 👥 Designed for users needing a simple, no-frills tool for extracting zip and rar files. Suitable for beginners and non-technical users.
