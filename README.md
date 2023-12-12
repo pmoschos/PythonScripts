@@ -41,7 +41,7 @@ To get started with PythonScripts:
 3. Read the accompanying documentation for usage instructions
 
 ## License 📜
-Distributed under the MIT License. See `LICENSE` for more information.
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
 ## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
