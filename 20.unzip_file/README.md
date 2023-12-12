@@ -47,10 +47,10 @@ python unzip_file.py
 
 ## 📸 Screenshots
 
-### Running the App
+### Application Interface
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/da2cad70-1a76-4a82-bce4-8b5a6cea77ef)
 
-### Results
+### Running the App
 1. **Navigate to the zip file**
 
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/be42850a-0c24-432e-85d1-3306403d1db4)
