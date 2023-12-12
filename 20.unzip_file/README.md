@@ -52,15 +52,19 @@ python unzip_file.py
 
 ### Results
 1. **Navigate to the zip file**
+
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/be42850a-0c24-432e-85d1-3306403d1db4)
 
 2. **The file unzipped successfully**
+
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/ced916a0-c75f-423c-99ce-e3a1dbf063e6)
 
 3. **Navigate to your folder**
+
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/28294b71-8e58-4e38-8635-58ae7f90a399)
 
 4. **Open the unzipped file**
+
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/66da2ce5-24cc-4222-aaa1-596e2ea9e9f7)
 
 ## 📄 License
