@@ -40,6 +40,12 @@ def draw_text(text, font, text_color, x, y):
     img = font.render(text, True, text_color)
     screen.blit(img, (x,y))
 
+def reset_game():
+    pipe_group.empty()
+    flappy.rect.x = 100
+    flappy.rect.y = int(screen_height / 2)
+    score = 0
+    return score
 
 class Bird(pygame.sprite.Sprite):
     def __init__(self, x, y):
@@ -196,7 +202,6 @@ while run:
             pipe_group.add(top_pipe)
             last_pipe = time_now
 
-
         # scroll the ground
         ground_scroll -= scroll_speed
     
@@ -207,7 +212,10 @@ while run:
     
     # check for game over and reset
     if game_over == True:
-        button.draw()
+        if button.draw() == True:
+            game_over = False
+            score = reset_game()
+
 
 
     for event in pygame.event.get():
