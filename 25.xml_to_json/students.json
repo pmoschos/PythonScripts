@@ -1,0 +1,78 @@
+{
+    "students": {
+        "student": [
+            {
+                "@id": 1,
+                "firstname": {
+                    "$": "Alice"
+                },
+                "lastname": {
+                    "$": "Smith"
+                },
+                "age": {
+                    "$": 20
+                },
+                "university": {
+                    "$": "University A"
+                },
+                "department": {
+                    "$": "Computer Science"
+                }
+            },
+            {
+                "@id": 2,
+                "firstname": {
+                    "$": "Bob"
+                },
+                "lastname": {
+                    "$": "Johnson"
+                },
+                "age": {
+                    "$": 22
+                },
+                "university": {
+                    "$": "University B"
+                },
+                "department": {
+                    "$": "Mechanical Engineering"
+                }
+            },
+            {
+                "@id": 3,
+                "firstname": {
+                    "$": "Carol"
+                },
+                "lastname": {
+                    "$": "Williams"
+                },
+                "age": {
+                    "$": 21
+                },
+                "university": {
+                    "$": "University C"
+                },
+                "department": {
+                    "$": "Physics"
+                }
+            },
+            {
+                "@id": 4,
+                "firstname": {
+                    "$": "David"
+                },
+                "lastname": {
+                    "$": "Brown"
+                },
+                "age": {
+                    "$": 23
+                },
+                "university": {
+                    "$": "University D"
+                },
+                "department": {
+                    "$": "Mathematics"
+                }
+            }
+        ]
+    }
+}

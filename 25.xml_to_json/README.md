@@ -56,7 +56,19 @@ python xml_to_json.py
 
 ### Application Interface
 
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/634227f1-a2c7-493e-917a-200f4e523033)
 
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/1a2c9b47-d81d-435e-9546-d4f364cd2973)
+
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/8af37dfc-3a57-436f-9bf7-8a91d9df3502)
+
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/a43bf87e-bbf7-468e-9a83-76b3d7de3772)
+
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/bf56f8c2-2ca7-46df-b132-399c067abc97)
+
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/8cefa048-3127-4365-bb12-e9110e3ddbff)
+
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/c72931ad-697b-49b1-bc13-391508a762f5)
 
 
 ## 📄 License
