@@ -65,7 +65,7 @@ We pick the .xml file which is going to be converted to JSON.
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/1a2c9b47-d81d-435e-9546-d4f364cd2973)
 
 ### 🗃️ Our XML file
-This is our students.xml file
+This is our students.xml file.
 
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/8af37dfc-3a57-436f-9bf7-8a91d9df3502)
 
@@ -74,22 +74,27 @@ This is our students.xml file
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/a43bf87e-bbf7-468e-9a83-76b3d7de3772)
 
 ### 🔁 Convert XML to JSON
-Let's click to the button: `Convert`
+Let's click to the button: `Convert`, then we pick a name for our JSON file and click `Save`.
 
-![image](https://github.com/pmoschos/pmoschos/assets/133533759/bf56f8c2-2ca7-46df-b132-399c067abc97)
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/a43bf87e-bbf7-468e-9a83-76b3d7de3772)
 
 ### 💾 Pick XML and press save
 Let's click to the button: `Save`
 
-![image](https://github.com/pmoschos/pmoschos/assets/133533759/8cefa048-3127-4365-bb12-e9110e3ddbff)
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/bf56f8c2-2ca7-46df-b132-399c067abc97)
 
 ### 📊 Show results
-We can see the generated JSON file
+We can see the generated JSON file.
 
-![image](https://github.com/pmoschos/pmoschos/assets/133533759/c72931ad-697b-49b1-bc13-391508a762f5)
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/8cefa048-3127-4365-bb12-e9110e3ddbff)
 
 ### 📋 Copy JSON file
 Let's click to the button: `Copy` to copy the generated JSON file.
+
+![image](https://github.com/pmoschos/pmoschos/assets/133533759/c72931ad-697b-49b1-bc13-391508a762f5)
+
+### 📄 Generated JSON file
+This is our generated JSON file.
 
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/cae8277c-99ed-444e-87e8-a42b39528909)
 
