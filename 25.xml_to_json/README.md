@@ -74,12 +74,12 @@ This is our students.xml file.
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/a43bf87e-bbf7-468e-9a83-76b3d7de3772)
 
 ### 🔁 Convert XML to JSON
-Let's click to the button: `Convert`, then we pick a name for our JSON file and click `Save`.
+Let's click to the button: `Convert`.
 
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/a43bf87e-bbf7-468e-9a83-76b3d7de3772)
 
 ### 💾 Pick XML and press save
-Let's click to the button: `Save`
+Pick a name for the generated JSON file and click to the button: `Save`
 
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/bf56f8c2-2ca7-46df-b132-399c067abc97)
 
