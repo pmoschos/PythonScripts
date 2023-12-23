@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<students>
+   <student id="1">
+      <firstname>Alice</firstname>
+      <lastname>Smith</lastname>
+      <age>20</age>
+      <university>University A</university>
+      <department>Computer Science</department>
+   </student>
+   <student id="2">
+      <firstname>Bob</firstname>
+      <lastname>Johnson</lastname>
+      <age>22</age>
+      <university>University B</university>
+      <department>Mechanical Engineering</department>
+   </student>
+   <student id="3">
+      <firstname>Carol</firstname>
+      <lastname>Williams</lastname>
+      <age>21</age>
+      <university>University C</university>
+      <department>Physics</department>
+   </student>
+   <student id="4">
+      <firstname>David</firstname>
+      <lastname>Brown</lastname>
+      <age>23</age>
+      <university>University D</university>
+      <department>Mathematics</department>
+   </student>
+</students>
