@@ -17,31 +17,31 @@ PythonScripts is more than just a collection of scripts. It's a toolkit for solv
 
 ## 🐍 Python Projects Collection
 
-1. [Naming Conventions]() 📝
-2. [Age Calculator]() 🎂
-3. 💬 [StackOverflow Clone]() 
-4. 🧮 [Calculator GUI](https://github.com/pmoschos/PythonScripts/tree/main/04.calculator_gui)
-5. 🕹️ [Tic Tac Toe]() 
-6. 📥 [YouTube Downloader]() 
-7. 📆 [Calendar Generator]() 
-8. 📊 [Read/Write CSV]() 
-9. 😃 [Print Emojis]() 
-10. 📱 [QR Code Generator]() 
-11. 🖼️ [Image Resizer]() 
-12. 🔗 [Site Connectivity Checker]() 
-13. 🎞️ [GIF Generator]() 
-14. 🚀 [Internet Speed Test]() 
-15. ☁️ [Weather API Integration]() 
-16. 🎲 [Dice Roller]() 
-17. 📸 [Screenshot Tool]() 
-18. 🔺 [Pascal's Triangle Calculator]() 
-19. 🎨 Color Game 
-20. 🗂️ Unzip Files 
-21. 🐦 Flappy Bird Game 
-22. 🔊 Text to Speech Converter 
-23. 📚 Dictionary UI 
-24. 🤖 Python to Android 
-25. ⚙️ XML to JSON Converter 
+01. [Naming Conventions](https://github.com/pmoschos/PythonScripts/tree/main/01.naming_conventions) 📝
+02. [Age Calculator](https://github.com/pmoschos/PythonScripts/tree/main/02.age_calculator) 🎂
+03. [StackOverflow Clone](https://github.com/pmoschos/PythonScripts/tree/main/03.stackoverflow) 💬 
+04. 🧮 [Calculator GUI](https://github.com/pmoschos/PythonScripts/tree/main/04.calculator_gui)
+05. [Tic Tac Toe](https://github.com/pmoschos/PythonScripts/tree/main/05.tic_tac_toe) 🕹️ 
+06. [YouTube Downloader](https://github.com/pmoschos/PythonScripts/tree/main/06.youtube_dl) 📥 
+07. [Calendar Generator](https://github.com/pmoschos/PythonScripts/tree/main/07.calendar_gen) 📆 
+08. [Read/Write CSV]() 📊 
+09. [Print Emojis]() 😃 
+10. [QR Code Generator]() 📱 
+11. [Image Resizer]() 🖼️ 
+12. [Site Connectivity Checker]() 🔗 
+13. [GIF Generator]() 🎞️ 
+14. [Internet Speed Test]() 🚀 
+15. [Weather API Integration]() ☁️ 
+16. [Dice Roller]() 🎲 
+17. [Screenshot Tool]() 📸 
+18. [Pascal's Triangle Calculator]() 🔺 
+19. [Color Game]() 🎨 
+20. [Unzip Files]() 🗂️ 
+21. [Flappy Bird Game]() 🐦  
+22. [Text to Speech Converter]() 🔊 
+23. [Dictionary UI]() 📚  
+24. [Python to Android]() 🤖 
+25. [XML to JSON Converter]() ⚙️  
 
 
 ### Educational Value 🎓
