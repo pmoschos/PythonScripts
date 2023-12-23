@@ -17,32 +17,31 @@ PythonScripts is more than just a collection of scripts. It's a toolkit for solv
 
 ## 🐍 Python Projects Collection
 
-01. [Naming Conventions](https://github.com/pmoschos/PythonScripts/tree/main/01.naming_conventions) 📝
-02. [Age Calculator](https://github.com/pmoschos/PythonScripts/tree/main/02.age_calculator) 🎂
-03. [StackOverflow Clone](https://github.com/pmoschos/PythonScripts/tree/main/03.stackoverflow) 💬 
-04. 🧮 [Calculator GUI](https://github.com/pmoschos/PythonScripts/tree/main/04.calculator_gui)
-05. [Tic Tac Toe](https://github.com/pmoschos/PythonScripts/tree/main/05.tic_tac_toe) 🕹️ 
-06. [YouTube Downloader](https://github.com/pmoschos/PythonScripts/tree/main/06.youtube_dl) 📥 
-07. [Calendar Generator](https://github.com/pmoschos/PythonScripts/tree/main/07.calendar_gen) 📆 
-08. [Read/Write CSV]() 📊 
-09. [Print Emojis]() 😃 
-10. [QR Code Generator]() 📱 
-11. [Image Resizer]() 🖼️ 
-12. [Site Connectivity Checker]() 🔗 
-13. [GIF Generator]() 🎞️ 
-14. [Internet Speed Test]() 🚀 
-15. [Weather API Integration]() ☁️ 
-16. [Dice Roller]() 🎲 
-17. [Screenshot Tool]() 📸 
-18. [Pascal's Triangle Calculator]() 🔺 
-19. [Color Game]() 🎨 
-20. [Unzip Files]() 🗂️ 
-21. [Flappy Bird Game]() 🐦  
-22. [Text to Speech Converter]() 🔊 
-23. [Dictionary UI]() 📚  
-24. [Python to Android]() 🤖 
-25. [XML to JSON Converter]() ⚙️  
-
+01. [Naming Conventions](https://github.com/pmoschos/PythonScripts/tree/main/01.naming_conventions)
+02. [Age Calculator](https://github.com/pmoschos/PythonScripts/tree/main/02.age_calculator)
+03. [StackOverflow Clone](https://github.com/pmoschos/PythonScripts/tree/main/03.stackoverflow) 
+04. [Calculator GUI](https://github.com/pmoschos/PythonScripts/tree/main/04.calculator_gui) 
+05. [Tic Tac Toe](https://github.com/pmoschos/PythonScripts/tree/main/05.tic_tac_toe) 
+06. [YouTube Downloader](https://github.com/pmoschos/PythonScripts/tree/main/06.youtube_dl) 
+07. [Calendar Generator](https://github.com/pmoschos/PythonScripts/tree/main/07.calendar_gen) 
+08. [Read/Write CSV](https://github.com/pmoschos/PythonScripts/tree/main/08.read_write_csv) 
+09. [Print Emojis](https://github.com/pmoschos/PythonScripts/tree/main/09.print_emojis) 
+10. [QR Code Generator](https://github.com/pmoschos/PythonScripts/tree/main/10.generate_qrcode) 
+11. [Image Resizer](https://github.com/pmoschos/PythonScripts/tree/main/11.image_resize) 
+12. [Site Connectivity Checker](https://github.com/pmoschos/PythonScripts/tree/main/12.site_conn_check) 
+13. [GIF Generator](https://github.com/pmoschos/PythonScripts/tree/main/13.gif_generator) 
+14. [Internet Speed Test](https://github.com/pmoschos/PythonScripts/tree/main/14.internet_speed_test) 
+15. [Weather API Integration](https://github.com/pmoschos/PythonScripts/tree/main/15.weather_api) 
+16. [Dice Roller](https://github.com/pmoschos/PythonScripts/tree/main/16.dice_roller) 
+17. [Screenshot Tool](https://github.com/pmoschos/PythonScripts/tree/main/17.screenshot) 
+18. [Pascal's Triangle Calculator](https://github.com/pmoschos/PythonScripts/tree/main/18.pascal_triangle) 
+19. [Color Game](https://github.com/pmoschos/PythonScripts/tree/main/19.color_game) 
+20. [Unzip Files](https://github.com/pmoschos/PythonScripts/tree/main/20.unzip_file) 
+21. [Flappy Bird Game](https://github.com/pmoschos/PythonScripts/tree/main/21.flappy_bird) 
+22. [Text to Speech Converter](https://github.com/pmoschos/PythonScripts/tree/main/22.text_to_speech) 
+23. [Dictionary UI](https://github.com/pmoschos/PythonScripts/tree/main/23.dictionary_ui) 
+24. [Python to Android](https://github.com/pmoschos/PythonScripts/tree/main/24.python_to_android) 
+25. [XML to JSON Converter](https://github.com/pmoschos/PythonScripts/tree/main/25.xml_to_json) 
 
 ### Educational Value 🎓
 - Hands-on learning materials for Python
