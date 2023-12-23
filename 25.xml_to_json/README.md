@@ -22,17 +22,55 @@
 
 This application is designed for developers, data analysts, and hobbyists with a basic understanding of Python and XML/JSON file formats.
 
-## 🛠 Installation and Setup Instructions
+## Installation 💾
+Clone the repository:
 
-1. 📥 Clone the repository: `git clone [your-repo-link]`
-2. 📂 Navigate to the project directory: `cd xml-to-json-converter`
-3. 📌 Install required dependencies: `pip install -r requirements.txt`
-4. ▶️ Run the application: `python main.py`
+1. **🔗 Clone the Repository**:
+```bash
+git clone https://github.com/pmoschos/PythonScripts
+```
 
-## 📖 Usage Examples
+2. **📁 Navigate to the project directory**:
+```bash
+cd 25.xml_to_json
+```
 
-Showcase how to use your application. Include code snippets or screenshots if applicable.
+3. **🔧 Install Dependencies**:
 
-## © License Information
+Make sure Python 3.x is installed.
 
-This project is licensed under the [LICENSE NAME] - see the LICENSE file for details.
+- Install `xmljson`:
+```bash
+pip install xmljson
+```
+
+## 📌 Usage Example
+
+### To start the application, run the following command in your terminal:
+
+```bash
+python xml_to_json.py
+```
+
+## 📸 Screenshots
+
+### Application Interface
+
+
+
+
+## 📄 License
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
+
+
+## Contact 📧
+Panagiotis Moschos - pan.moschos86@gmail.com
+
+🔗 *Note: This is a Python script and requires a Python interpreter to run.*
+
+---
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
+<p align="center">
+  Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
+</p>
