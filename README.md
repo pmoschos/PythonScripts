@@ -5,14 +5,6 @@
 ## Overview 🌟
 Welcome to the PythonScripts repository, a diverse collection of Python scripts addressing a variety of challenging tasks and scenarios. This repository is a hub for programmers, educators, and students seeking practical, real-world Python solutions.
 
-## Table of Contents 📚
-- [About the Repository](#about-the-repository)
-- [Repository Contents](#repository-contents)
-- [Getting Started](#getting-started)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
-- [Contact](#contact)
-
 ## About the Repository 📖
 PythonScripts is more than just a collection of scripts. It's a toolkit for solving problems, understanding Python programming, and fostering innovative thinking. The scripts cover a wide range of applications and are designed to demonstrate both fundamental and advanced programming concepts.
 
@@ -22,6 +14,35 @@ PythonScripts is more than just a collection of scripts. It's a toolkit for solv
 - Machine Learning 🤖
 - Web Scraping 🌐
 - Automation 🔄
+
+## 🐍 Python Projects Collection
+
+1. Naming Conventions 📝
+2. Age Calculator 🎂
+3. StackOverflow Clone 💬
+4. Calculator GUI 🖩
+5. Tic Tac Toe 🕹️
+6. YouTube Downloader 📥
+7. Calendar Generator 📆
+8. Read/Write CSV 📊
+9. Print Emojis 😃
+10. QR Code Generator 📱
+11. Image Resizer 🖼️
+12. Site Connectivity Checker 🔗
+13. GIF Generator 🎞️
+14. Internet Speed Test 🚀
+15. Weather API Integration ☁️
+16. Dice Roller 🎲
+17. Screenshot Tool 📸
+18. Pascal's Triangle Calculator 🔺
+19. Color Game 🎨
+20. Unzip Files 🗂️
+21. Flappy Bird Game 🐦
+22. Text to Speech Converter 🔊
+23. Dictionary UI 📚
+24. Python to Android 🤖
+25. XML to JSON Converter ⚙️
+
 
 ### Educational Value 🎓
 - Hands-on learning materials for Python
