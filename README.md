@@ -20,7 +20,7 @@ PythonScripts is more than just a collection of scripts. It's a toolkit for solv
 1. 📝 Naming Conventions 
 2. 🎂 Age Calculator 
 3. 💬 StackOverflow Clone 
-4. 🖩 [Calculator GUI](https://github.com/pmoschos/PythonScripts/tree/main/04.calculator_gui)
+4. 🧮 [Calculator GUI](https://github.com/pmoschos/PythonScripts/tree/main/04.calculator_gui)
 5. 🕹️ Tic Tac Toe 
 6. 📥 YouTube Downloader 
 7. 📆 Calendar Generator 
