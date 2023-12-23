@@ -17,24 +17,24 @@ PythonScripts is more than just a collection of scripts. It's a toolkit for solv
 
 ## 🐍 Python Projects Collection
 
-1. 📝 Naming Conventions 
-2. 🎂 Age Calculator 
-3. 💬 StackOverflow Clone 
+1. [Naming Conventions]() 📝
+2. [Age Calculator]() 🎂
+3. 💬 [StackOverflow Clone]() 
 4. 🧮 [Calculator GUI](https://github.com/pmoschos/PythonScripts/tree/main/04.calculator_gui)
-5. 🕹️ Tic Tac Toe 
-6. 📥 YouTube Downloader 
-7. 📆 Calendar Generator 
-8. 📊 Read/Write CSV 
-9. 😃 Print Emojis 
-10. 📱 QR Code Generator 
-11. 🖼️ Image Resizer 
-12. 🔗 Site Connectivity Checker 
-13. 🎞️ GIF Generator 
-14. 🚀 Internet Speed Test 
-15. ☁️ Weather API Integration 
-16. 🎲 Dice Roller 
-17. 📸 Screenshot Tool 
-18. 🔺 Pascal's Triangle Calculator 
+5. 🕹️ [Tic Tac Toe]() 
+6. 📥 [YouTube Downloader]() 
+7. 📆 [Calendar Generator]() 
+8. 📊 [Read/Write CSV]() 
+9. 😃 [Print Emojis]() 
+10. 📱 [QR Code Generator]() 
+11. 🖼️ [Image Resizer]() 
+12. 🔗 [Site Connectivity Checker]() 
+13. 🎞️ [GIF Generator]() 
+14. 🚀 [Internet Speed Test]() 
+15. ☁️ [Weather API Integration]() 
+16. 🎲 [Dice Roller]() 
+17. 📸 [Screenshot Tool]() 
+18. 🔺 [Pascal's Triangle Calculator]() 
 19. 🎨 Color Game 
 20. 🗂️ Unzip Files 
 21. 🐦 Flappy Bird Game 
