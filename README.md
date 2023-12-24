@@ -41,7 +41,8 @@ PythonScripts is more than just a collection of scripts. It's a toolkit for solv
 22. [Text to Speech Converter](https://github.com/pmoschos/PythonScripts/tree/main/22.text_to_speech) 
 23. [Dictionary UI](https://github.com/pmoschos/PythonScripts/tree/main/23.dictionary_ui) 
 24. [Python to Android](https://github.com/pmoschos/PythonScripts/tree/main/24.python_to_android) 
-25. [XML to JSON Converter](https://github.com/pmoschos/PythonScripts/tree/main/25.xml_to_json) 
+25. [XML to JSON Converter](https://github.com/pmoschos/PythonScripts/tree/main/25.xml_to_json)
+26. [Remove image background](https://github.com/pmoschos/PythonScripts/tree/main/26.remove_image_bg)
 
 ### Educational Value 🎓
 - Hands-on learning materials for Python
