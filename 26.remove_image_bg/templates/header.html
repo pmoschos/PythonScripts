@@ -7,5 +7,3 @@
 </head>
 <body>
     
-</body>
-</html>
