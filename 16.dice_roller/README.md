@@ -1,5 +1,7 @@
 # 🎲 Dice Roller App
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 ## 🌟 Overview
 This Dice Roller App is a simple, yet engaging dice-rolling simulator built with Python's Tkinter library. Ideal for anyone needing a virtual pair of dice, this app is perfect for board games, classroom activities, or just for fun!
 

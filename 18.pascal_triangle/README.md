@@ -1,4 +1,6 @@
-# Pascal's Triangle Generator ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg) 
+# Pascal's Triangle Generator 
+
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg) ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg) 
 
 ## Project Overview 📚
 This Python application generates Pascal's Triangle up to a specified number of rows. The application uses a mathematical approach to calculate and display each level of the triangle in a visually pleasing format.

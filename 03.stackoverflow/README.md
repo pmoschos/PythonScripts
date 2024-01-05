@@ -1,5 +1,7 @@
 # Stack Overflow Error Search Script
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 ## Overview :mag:
 This script assists Python developers in quickly finding solutions to errors by searching Stack Overflow. It queries for questions tagged with the error and opens the top answered questions in a web browser.
 

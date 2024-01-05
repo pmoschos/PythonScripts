@@ -1,5 +1,7 @@
 # 🌐 XML to JSON Converter
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 ## 📌 Project Overview
 
 🔍 XML to JSON Converter is a Python-based application designed to seamlessly transform XML files into JSON format. This tool is ideal for developers and data scientists who work with these file formats and require a user-friendly interface for quick conversions.

@@ -1,5 +1,6 @@
 # :framed_picture: Image Resizer Tool 
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
 [![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)](https://docs.python.org/3/library/tk.html)
 [![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-orange)](https://pillow.readthedocs.io/)

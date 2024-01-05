@@ -1,5 +1,7 @@
 # :sparkles: Emoji List
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 This section showcases a selection of emojis available in the [emoji](https://pypi.org/project/emoji/) module. For a fun and interactive way to explore and use emojis in your Python projects, refer to the script below.
 
 ## 🛠️ Technical Requirements

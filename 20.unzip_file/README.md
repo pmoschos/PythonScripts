@@ -1,5 +1,7 @@
 # 🗂️ Unzip and Unrar Program
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 ## 🌟 Overview
 👩‍💻 This Python application offers a streamlined interface for extracting files from zip and rar archives. Utilizing the Tkinter library, it provides an intuitive, user-friendly experience for file extraction.
 

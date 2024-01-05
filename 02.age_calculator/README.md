@@ -1,5 +1,7 @@
 # 📅 Simple Age Calculator
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 ## 🌟 Introduction
 This Python script is designed to calculate a person's exact age in years, months, and days. It's user-friendly, asking for the birth date as input and then computing the age with precision.
 

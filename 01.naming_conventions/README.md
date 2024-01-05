@@ -1,5 +1,7 @@
 # Python Naming Conventions Guide
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 This guide outlines best practices for naming conventions in Python, aimed at ensuring code clarity and maintainability.
 
 ## 1. General Naming Guidelines

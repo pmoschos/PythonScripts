@@ -1,5 +1,7 @@
 # Text-to-Speech Application 🎙️
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 ## Overview 👀
 This Python application leverages the Tkinter GUI framework and the gTTS (Google Text-to-Speech) API to convert user input text into speech. It's an intuitive and user-friendly program, designed to provide an easy way for users to generate audio from text.
 

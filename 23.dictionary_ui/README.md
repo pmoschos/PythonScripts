@@ -1,5 +1,7 @@
 # 📚 Dictionary Application
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 This Tkinter-based dictionary application 🌐 provides a simple and user-friendly interface for searching the meanings of words. Leveraging the PyDictionary library 📖, it offers a convenient tool for quick word lookups.
 
 ## 🌟 Features

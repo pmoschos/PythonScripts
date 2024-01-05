@@ -1,5 +1,7 @@
 # 📥 Easy YouTube Downloader
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 ## 🌟 Overview
 Easy YouTube Downloader is a simple and user-friendly application built with Python and Tkinter, allowing users to download YouTube videos in MP4 format easily. The application features a straightforward graphical user interface for ease of use.
 

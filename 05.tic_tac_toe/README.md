@@ -1,5 +1,11 @@
 # Tic Tac Toe Game with Tkinter 🎮
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 This project is a classic Tic Tac Toe game implemented in Python using the Tkinter library. It offers a simple and user-friendly GUI for playing this timeless two-player game. The game includes basic functionalities like marking Xs and Os, determining a winner or a draw, and resetting the game board.
 
 ## Key Features 🌟

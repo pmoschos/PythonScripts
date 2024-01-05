@@ -1,5 +1,7 @@
 # 🐦 Flappy Bird Clone
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 ## 📋 Overview
 
 This project is a Python-based clone of the popular mobile game Flappy Bird. Utilizing the Pygame library, this game recreates the challenging and addictive gameplay of guiding a bird through a series of pipes without colliding.

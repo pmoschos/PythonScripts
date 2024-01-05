@@ -1,6 +1,6 @@
 # PythonScripts Repository 🐍
 
-![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/PythonScripts) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)![Python](https://img.shields.io/badge/language-Python-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/PythonScripts) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Overview 🌟
 Welcome to the PythonScripts repository, a diverse collection of Python scripts addressing a variety of challenging tasks and scenarios. This repository is a hub for programmers, educators, and students seeking practical, real-world Python solutions.

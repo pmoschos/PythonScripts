@@ -1,5 +1,7 @@
 # 📅 Tkinter Calendar Generator & Image Saver 
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 This project is a Python application that allows users to generate and view calendars for any year and save them as PNG files. It is built using the Tkinter GUI library and PIL (Python Imaging Library) for image processing.
 
 ## 🌟 Key Features 

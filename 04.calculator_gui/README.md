@@ -1,5 +1,7 @@
 # 🖩 Simple Tkinter Calculator
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 ## 📄 Project Overview
 🔍 A simple and user-friendly calculator built with Python and Tkinter. This application offers basic arithmetic operations and is designed for ease of use with a clean interface.
 

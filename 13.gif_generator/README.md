@@ -1,5 +1,6 @@
 # Image to GIF Converter 🌟
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
 ![Python](https://img.shields.io/badge/Made_with-Python-blue.svg)
 ![Tkinter](https://img.shields.io/badge/Using-Tkinter-green.svg)
 ![GIF](https://img.shields.io/badge/Supports-GIF_Conversion-orange.svg)

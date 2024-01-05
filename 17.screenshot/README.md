@@ -1,5 +1,7 @@
 # 📸 Screen Capture (Take a Screenshot)
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 ## 🌟 Project Overview
 ScreenCapturePy is a simple yet powerful Python utility designed for taking screenshots. Utilizing the `pyautogui` library, this tool captures the current state of the screen with ease, making it ideal for a wide range of applications, from personal use to integration in larger projects.
 

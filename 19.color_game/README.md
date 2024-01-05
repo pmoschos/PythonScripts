@@ -1,5 +1,7 @@
 # 🎨 Color Game
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 ## Overview 🌟
 Color Game is a fun and interactive Python application designed to test the player's cognitive ability to distinguish colors from text. The game challenges players to type the color of the word displayed, not the word text itself, within a given time limit.
 

@@ -1,6 +1,6 @@
 # 🌐 Internet Speed Test Application
 
-![Speedtest](https://img.shields.io/badge/speedtest-blue.svg) ![Python](https://img.shields.io/badge/python-3.x-blue.svg) ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange.svg)
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg) ![Speedtest](https://img.shields.io/badge/speedtest-blue.svg) ![Python](https://img.shields.io/badge/python-3.x-blue.svg) ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange.svg)
 
 This application 🚀 provides a simple and user-friendly interface to test your internet download and upload speeds, as well as ping. Built with Python and Tkinter, it offers a seamless experience for users looking to quickly assess their internet connection.
 

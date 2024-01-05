@@ -1,5 +1,7 @@
 # 📱 Python to Android apk
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 ## 🌟 Overview
 
 [Provide a brief overview of your application. Describe its purpose, functionality, and any unique features it might have.]

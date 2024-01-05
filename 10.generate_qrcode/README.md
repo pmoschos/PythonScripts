@@ -1,4 +1,6 @@
-# QR Code Generator and Display with Tkinter ![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)
+# QR Code Generator and Display with Tkinter 
+
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)
 
 ## :mag: Project Overview
 This project is a simple yet effective QR code generator and viewer using Python. It creates a QR code for a specified URL and displays it in a GUI window using Tkinter. This tool is perfect for quickly generating QR codes for personal or professional use.

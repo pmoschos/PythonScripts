@@ -1,5 +1,7 @@
 # 📝 CSV Contact Manager
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/pmoschos.svg)
+
 This Python application provides an easy and efficient way to manage contacts stored in a CSV file. It allows reading, adding, and writing contact information.
 
 ## 🌟 Features
