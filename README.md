@@ -65,7 +65,7 @@ To get started with PythonScripts:
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
 ## Contact 📧
-Panagiotis Moschos - pan.moschos86@gmail.com
+Panagiotis Moschos - (pan.moschos86@gmail.com)
 
 ---
 <h1 align=center>Happy Coding 👨‍💻 </h1>
