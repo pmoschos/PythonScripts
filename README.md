@@ -61,15 +61,15 @@ To get started with PythonScripts:
 2. Navigate to the desired script
 3. Read the accompanying documentation for usage instructions
 
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
 ## License 📜
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
 ## Contact 📧
 Panagiotis Moschos - (pan.moschos86@gmail.com)
-
-## 📢 Stay Updated
-
-Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
 ---
 <h1 align=center>Happy Coding 👨‍💻 </h1>
