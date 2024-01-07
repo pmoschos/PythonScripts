@@ -67,6 +67,10 @@ To get started with PythonScripts:
 ## Contact 📧
 Panagiotis Moschos - (pan.moschos86@gmail.com)
 
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
 ---
 <h1 align=center>Happy Coding 👨‍💻 </h1>
 
