@@ -56,6 +56,10 @@ python dictionary_ui.py
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/2397a698-6181-4d4a-9229-a72875abaf38)
 
 
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
 ## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 

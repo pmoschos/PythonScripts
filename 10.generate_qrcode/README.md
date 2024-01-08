@@ -48,14 +48,20 @@ Contributions to this project are welcome! Please adhere to the following guidel
 - Write clean, documented, and tested code.
 - Submit a pull request with a detailed description of your changes.
 
-## :page_facing_up: License ![License](https://img.shields.io/badge/license-MIT-green)
-This project is licensed under the [MIT License](LICENSE).
+## 📢 Stay Updated
 
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
+## 📄 License
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
+
+
+## Contact 📧
+Panagiotis Moschos - pan.moschos86@gmail.com
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
 ---
-
 <h1 align=center>Happy Coding 👨‍💻 </h1>
 
 <p align="center">

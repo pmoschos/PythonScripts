@@ -69,6 +69,10 @@ python unzip_file.py
 
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/66da2ce5-24cc-4222-aaa1-596e2ea9e9f7)
 
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
 ## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 

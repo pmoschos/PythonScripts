@@ -60,6 +60,10 @@ python text_to_speech.py
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/16a74b55-9d56-4a53-984e-3c79d9e34ea8)
 
 
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
 ## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 

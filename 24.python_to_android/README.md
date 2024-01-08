@@ -62,6 +62,9 @@ python python_to_android.py
 
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/6e72797d-7b14-4109-b6cd-f92404cf64ed)
 
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
 ## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).

@@ -68,6 +68,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - 🎨 **Customization**: The interface can be customized using different themes available in `ttkbootstrap`.
 
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
+## 📄 License
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
+
+
 ## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com
 

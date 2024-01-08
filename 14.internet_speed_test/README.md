@@ -57,8 +57,13 @@ python internet_speed_test.py
 ### After
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/db35b2dc-6ff8-4ded-96c8-1c1e4b8dea77)
 
-## 📜 License
-Distributed under the MIT License. See `LICENSE` for more information.
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
+## 📄 License
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
+
 
 ## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com

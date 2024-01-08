@@ -100,9 +100,12 @@ This is our generated JSON file.
 
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/cae8277c-99ed-444e-87e8-a42b39528909)
 
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
 ## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
-
 
 ## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com

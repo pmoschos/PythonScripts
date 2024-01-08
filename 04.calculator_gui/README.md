@@ -32,13 +32,20 @@
 ## 📷 Calculator Screenshot 
 ![image](https://github.com/pmoschos/PythonScripts/assets/133533759/711f6b8a-43fb-4e41-ae09-f66b8929def2)
 
-## 📜 License Information
-🔐 This project is licensed under the MIT License - see the LICENSE.md file for details.
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
+## 📄 License
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
+
+
+## Contact 📧
+Panagiotis Moschos - pan.moschos86@gmail.com
 
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
 ---
-
 <h1 align=center>Happy Coding 👨‍💻 </h1>
 
 <p align="center">

@@ -45,10 +45,20 @@ The script fetches relevant solutions and opens them in the browser.
 ## Conclusion :checkered_flag:
 This Python script streamlines the process of finding solutions to programming errors, providing a quick and efficient way for developers to access relevant answers from Stack Overflow.
 
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
+## 📄 License
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
+
+
+## Contact 📧
+Panagiotis Moschos - pan.moschos86@gmail.com
+
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
 ---
-
 <h1 align=center>Happy Coding 👨‍💻 </h1>
 
 <p align="center">

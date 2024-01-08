@@ -54,10 +54,20 @@ python calendar_gen.py
 ## 2. Generated Calendar 🗓️
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/57ffedca-c365-486e-b994-035940fd8cbc)
 
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
+## 📄 License
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
+
+
+## Contact 📧
+Panagiotis Moschos - pan.moschos86@gmail.com
+
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
 ---
-
 <h1 align=center>Happy Coding 👨‍💻 </h1>
 
 <p align="center">

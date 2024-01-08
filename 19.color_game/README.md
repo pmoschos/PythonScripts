@@ -56,8 +56,13 @@ Simulating a game
 
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/70cf56be-0dad-462c-bb13-0dd0422ea798)
 
-## 📜 License
-Distributed under the MIT License. See `LICENSE` for more information.
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
+## 📄 License
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
+
 
 ## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com

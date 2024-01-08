@@ -55,8 +55,13 @@ python gif_generator.py
 ### After
 ![output](https://github.com/pmoschos/pmoschos/assets/133533759/d8ca9b0b-b64b-47ae-a2aa-3ad5cc09c659)
 
-## License 📜
-Distributed under the MIT License. See `LICENSE` for more information.
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
+## 📄 License
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
+
 
 ## Contact 📧
 Panagiotis Moschos - pan.moschos86@gmail.com

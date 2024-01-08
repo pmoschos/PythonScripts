@@ -47,10 +47,20 @@ python tic_tac_toe.py
 
 After running the script, the Tic Tac Toe window will open. Players can take turns clicking on the grid to mark their X or O. The game announces the winner or a draw and allows for a board reset for a new game.
 
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
+## 📄 License
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
+
+
+## Contact 📧
+Panagiotis Moschos - pan.moschos86@gmail.com
+
 🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
 ---
-
 <h1 align=center>Happy Coding 👨‍💻 </h1>
 
 <p align="center">

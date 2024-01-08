@@ -55,6 +55,10 @@ python main.py
 ![image](https://github.com/pmoschos/pmoschos/assets/133533759/151fe2e4-e409-4c9e-a61f-61a359166aef)
 
 
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
 ## 📄 License
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
