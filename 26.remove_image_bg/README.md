@@ -86,7 +86,7 @@ pip install rembg Pillow
 When you run the script, the GUI window will appear, allowing you to select an image file and specify an output filename. The background will be removed from the selected image, and the output will be saved with the specified filename.
 
 ## 📸 Screenshots
-
+![image](https://github.com/pmoschos/PythonScripts/assets/133533759/b7a690b1-ea26-409e-9436-58d11e3a1ee1)
 
 ## 📢 Stay Updated
 
