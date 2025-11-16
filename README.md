@@ -44,6 +44,7 @@ PythonScripts is more than just a collection of scripts. It's a toolkit for solv
 25. [XML to JSON Converter](https://github.com/pmoschos/PythonScripts/tree/main/25.xml_to_json)
 26. [Remove image background](https://github.com/pmoschos/PythonScripts/tree/main/26.remove_image_bg)
 27. [Perfect Number Checker](https://github.com/pmoschos/PythonScripts/tree/main/27.perfect_number)
+28. [Clear Console](https://github.com/pmoschos/PythonScripts/tree/main/28.%20Clear%20Console)
 
 ### Educational Value 🎓
 - Hands-on learning materials for Python
