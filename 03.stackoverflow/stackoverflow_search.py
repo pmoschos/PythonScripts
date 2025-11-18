@@ -8,11 +8,16 @@ def search_stackoverflow(error_type, error_message):
     :param error_type: Type of the error encountered.
     :param error_message: Message of the error encountered.
     :return: List of links to the top answered questions.
-    """
+    """    
+    tags='python'
+
+    if error_message:
+        tagslist = ['python' , f'{error_message.replace(" ","-")}' , f'{error_message.replace(" ","")}' , f'{error_message.replace("-","")}']
+        tags = ';'.join(dict.fromkeys(tagslist))
+
     params = {
         'intitle': error_type,
-        'tagged': 'python',
-        'nottagged': error_message,
+        'tagged': tags,
         'sort': 'votes',
         'site': 'stackoverflow'
     }
